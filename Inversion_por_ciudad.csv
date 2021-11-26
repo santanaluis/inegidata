@@ -1,0 +1,43 @@
+﻿NOM_SUN,CIUDAD_NOM,NOMBRE,INVERSION,TIPO_INFRA
+Acapulco,Acapulco,Sistema Integrado De Transporte Acapulco-Ciudad Renacimiento,"2,219,000,000.00",BRT
+Aguascalientes,Aguascalientes,Sistema Integrado De Transporte De Aguascalientes,"2,037,000,000.00",BRT
+Chihuahua,Chihuahua,Corredor De Transporte Chihuahua 1 Norte-Sur,"893,000,000.00",BRT
+Chihuahua,Chihuahua,"Corredores Troncales 2 Y 3 Del Sistema Integrado De Transporte Público Para La Ciudad De Chihuahua, Chih., Denominado Vivebús","2,579,292,573.00",BRT
+Juárez,Ciudad Juárez,Corredor De Transporte Línea 2 Ciudad Juárez,"1,946,700,000.00",BRT
+Juárez,Ciudad Juárez,Estudio Integral Para El Corredor De Transporte Público Corredor Tecnológico,"3,084,886,614.00",BRT
+Colima-Villa de Álvarez,Colima,Sistema Integrado De Transporte Público SIT Colima,"937,837,788.00",BRT
+Culiacán,Culiacán,"Sistema Integrado De Transporte Público De La Ciudad De Culiacán, Sinaloa (SIT)","3,173,888,071.00",BRT
+La Laguna,La Laguna,Corredor De Transporte De La Zona Metropolitana De La Laguna,"1,647,000,000.00",BRT
+La Laguna,La Laguna,BRT Corredor Troncal La Laguna,"2,975,912,280.00",BRT
+Guadalajara,Guadalajara,Metro Ampliación L-1 Guadalajara,"1,353,000,000.00",Metro
+Guadalajara,Guadalajara,Metro Línea 3 Guadalajara,"31,142,000,000.00",Metro
+Guadalajara,Guadalajara,"Corredor De Transporte Peribús, Guadalajara, Etapa 1","3,714,000,000.00",BRT
+Guadalajara,Guadalajara,Modernización Y Ampliación De La Línea 1 Del Tren Ligero Guadalajara Ltg1,"3,203,407,774.00",Tren eléctrico
+Guadalajara,Guadalajara,Ampliación Del Sistema Del Tren Eléctrico Urbano En La Zona Metropolitana De Guadalajara.,"37,978,056,146.00",Tren eléctrico
+Guadalajara,Guadalajara,Sistema Integrado Peribús,"4,011,564,194.00",BRT
+Guadalajara,Guadalajara,Línea 4 Tren Ligero De Guadalajara,"13,843,594,718.00",Tren eléctrico
+León,León,Sistema Integrado De Transporte Optibús León 3A Y 4A Etapa,"1,235,000,000.00",BRT
+Mérida,Mérida,"Sistema De Transporte Integrado (STI) En La Zona Metropolitana De Mérida, Yucatán","2,826,432,176.00",BRT
+Mexicali,Mexicali,Corredor De Transporte Mexicali Línea Express 1,"686,000,000.00",BRT
+Monterrey,Monterrey,Corredor De Transporte Monterrey Ecovía 1,"1,890,000,000.00",BRT
+Monterrey,Monterrey,Metro Línea 3 Monterrey,"9,240,000,000.00",Metro
+Cuernavaca,Morelos,Proyecto De Infraestructura De Transporte Masivo Para La Zona Metropolitana De Cuernavaca (ZMC),"1,723,301,689.00",BRT
+Oaxaca,Oaxaca,Apoyo A La Movilidad Urbana Y Renovación Del Parque Vehicular En Oaxaca,"1,650,394,020.00",BRT
+Pachuca,Pachuca,Corredor De Transporte Pachuca Centro-Téllez,"857,000,000.00",BRT
+Puebla-Tlaxcala,Puebla,Corredor De Transporte Puebla 1 Chachapa-Tlaxcalancingo,"1,464,000,000.00",BRT
+Puebla-Tlaxcala,Puebla,Transporte Masivo De La Cuenca Norte-Sur De La Zona Metropolitana De Puebla,"3,104,645,582.00",BRT
+San Luis Potosí,San Luis Potosí,Corredor De Transporte San Luis Potosí,"555,800,000.00",BRT
+Tijuana,Tijuana,"Corredor 1: Puerta México -El Florido, Tijuana B.C.","3,552,679,278.00",BRT
+Toluca,Toluca,Construir El Tren Interurbano México-Toluca. Primera Etapa,"93,089,740,495.00",Tren
+Toluca,Toluca,Corredor De Transporte Chimalhuacán Pantitlán (Mexibús),"1,929,800,000.00",BRT
+Toluca,Toluca,Corredor De Transporte Línea 5 Metrobús Ciudad De México Etapa 2,"3,007,000,000.00",BRT
+Toluca,Toluca,Ferrocarril Suburbano (Sistema 1) Cuautitlán-Buenavista,"10,747,600,000.00",Metro
+Toluca,Toluca,Ampliación Línea 12 Mixcoac - Observatorio,"10,606,341,721.00",Metro
+Toluca,Toluca,"Ampliación De La Línea 9 Del STC, Tramo Tacubaya  Observatorio y Su Conexión Con Las Líneas 1 Y 12 Del Metro (Al9M)","4,596,326,925.00",Metro
+Toluca,Toluca,Proyecto Integral De Modernización De Subestación De Buen Tono Y Subestaciones Rectificadoras De La Línea 1 Del Sistema De Transporte Colectivo (STC),"2,922,222,110.00",Metro
+Toluca,Toluca,Corredor De Transporte Cd. Azteca-Tecámac (Mexibús I),"1,127,200,000.00",BRT
+Toluca,Toluca,Sistema De Transporte Férreo Suburbano En La Zona Oriente Del Valle De México: Chalco-Santa Marta,"17,852,840,783.00",Tren
+Toluca,Toluca,Extensión De La Línea 4 Del STC Metro: Martín Carrera Tepexpan,"30,943,653,315.00",Metro
+Toluca,Toluca,Ampliación De La Línea 1 Del Tren Suburbano Lechería - Jaltocan - Aifa,"12,907,832,231.00",Tren
+Toluca,Toluca,"Proyecto De Transporte Masivo BRT - Indios Verdes Ecatepec, Estado De México","3,274,849,070.00",BRT
+Zacatecas-Guadalupe,Zacatecas,SIT Zacatecas,"1,979,074,333.00",BRT
